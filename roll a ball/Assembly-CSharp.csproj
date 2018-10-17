@@ -63,6 +63,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\CameraController.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
+    <Compile Include="Assets\Scripts\Rotator.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/workspace/roll-a-ball/roll-a-ball/roll a ball/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
