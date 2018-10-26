@@ -1,4 +1,4 @@
 sceneSetups:
-- path: C:/workspace/ges-student/Assets/Scenes/SampleScene.unity
+- path: Assets/Scenes/SampleScene.unity
   isLoaded: 1
   isActive: 1
